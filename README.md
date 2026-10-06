@@ -1,16 +1,12 @@
-# gino_gennai_app
+# Signum Aura AI
 
-A new Flutter project.
+Repository storico: **MetaSegnoAI**  
+Progetto attuale: **Signum Aura AI** — Aquarius Age.
 
-## Getting Started
+> Nota di sincronizzazione: il codice presente su `main` è ancora un vecchio scaffold Flutter e non rappresenta la versione reale di Signum Aura. Per evitare modifiche distruttive, la sincronizzazione del progetto è iniziata nel branch `sync/signum-aura-2026-10-06`.
 
-This project is a starting point for a Flutter application.
+## Stato
 
-A few resources to get you started if this is your first Flutter project:
+La scheda completa di sincronizzazione è in [SIGNUM_AURA_STATUS.md](./SIGNUM_AURA_STATUS.md).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Il prossimo passaggio tecnico è recuperare il sorgente Flutter realmente usato dall'app, validarlo e poi sostituire in modo controllato il codice legacy.
